@@ -1,0 +1,27 @@
+Enunciado do Projeto
+Título: Construção e Exibição de uma Matriz 2x3
+
+Descrição:
+Desenvolva um programa em Python que solicita ao usuário a entrada de valores para preencher uma matriz 2x3. Após a inserção dos valores, o programa deve exibir a matriz resultante.
+
+Requisitos:
+
+Inicializar uma matriz vazia.
+Utilizar dois loops aninhados para solicitar ao usuário a entrada de valores para cada posição da matriz 2x3.
+Armazenar os valores na matriz.
+Exibir a matriz formatada na saída.
+
+
+# Construção e Exibição de uma Matriz 2x3
+
+## Descrição
+Este projeto implementa um programa em Python que permite ao usuário construir uma matriz 2x3 inserindo valores manualmente. Após a inserção dos valores, o programa exibe a matriz na tela.
+
+## Funcionalidades
+- Criação de uma matriz 2x3 baseada em entradas fornecidas pelo usuário.
+- Exibição da matriz resultante.
+
+## Como Executar
+1. Clone o repositório para sua máquina local.
+   ```bash
+   git clone https://github.com/seu_usuario/matriz-2x3.git
